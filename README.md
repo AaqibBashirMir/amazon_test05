@@ -2,9 +2,8 @@
 https://aaqibbashirmir.github.io/amazon_test05/<br>
 
 ![aaaama](https://github.com/AaqibBashirMir/amazon_test05/assets/35392012/2a15cde1-53d0-468e-a608-307d4977f219)<br>
-Html:
-
-Inside the "body" tag:
+Html
+body
 
 "header": This indicates the header section of the webpage.
 "nav class='navbar'": Inside the header, this "nav" element signifies the navigation bar.
